@@ -2,7 +2,7 @@
 - 👀 I’m interested in programining with any language
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ...
+- 📫 How to reach me kedhas.work@gmail.com
 
 <!---
 kedhas/kedhas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
